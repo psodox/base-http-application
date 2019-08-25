@@ -1,0 +1,13 @@
+{
+    "name": "psodox/base-http-application",
+    "require": {
+        "psodox/base-http-application-architecture": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Denny Brandes",
+            "email": "info@pixel-pro.de"
+        }
+    ],
+    "minimum-stability": "dev"
+}
